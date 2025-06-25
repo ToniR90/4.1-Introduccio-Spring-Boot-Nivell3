@@ -21,14 +21,14 @@ To test and validate the REST endpoints exposed by the Maven and Gradle Spring B
 
 - **Environment name:** `Project Maven`
 - **Variables:**
-  - `server` → `http://localhost`
+  - `server` → `http://localhost:`
   - `port` → `9000`
 
 ### Environment 2: Gradle Project
 
 - **Environment name:** `Project Gradle`
 - **Variables:**
-  - `server` → `http://localhost`
+  - `server` → `http://localhost:`
   - `port` → `9001`
 
 ---
